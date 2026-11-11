@@ -1,7 +1,7 @@
 # GameInitializer.gd
-# Attach this script to your main Scene Tree / Node2D setup.
+# Attach this script to a plain Node in your main Scene Tree.
 
-extends Node2D
+extends Node
 
 # Core Game Settings & Player State
 var current_day: int = 1
