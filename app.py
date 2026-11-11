@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -22,7 +21,8 @@
             align-items: center;
             justify-content: center;
             min-height: 100vh;
-            overflow: hidden;
+            overflow-y: auto;
+            padding: 20px 0;
         }
 
         #game-container {
@@ -470,4 +470,3 @@
     </script>
 </body>
 </html>
-Analyzing
